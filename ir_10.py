@@ -152,7 +152,7 @@ def subtract_linear_baseline(x, y):
 # ==========================================
 # 2. 侧边栏设置
 # ==========================================
-st.title("Cu-CO2RR 原位光谱拟合工具 V26 (Sigma Lock + SVG/Data Export)")
+st.title("原位红外水峰拟合")
 
 with st.sidebar:
     st.header("1. 数据导入")
